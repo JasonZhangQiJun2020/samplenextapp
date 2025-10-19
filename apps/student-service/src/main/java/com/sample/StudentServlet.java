@@ -25,7 +25,8 @@ public class StudentServlet extends HttpServlet {
             new Student(7, "George"),
             new Student(8, "Hannah"),
             new Student(9, "Ivan"),
-            new Student(10, "Julia")
+            new Student(10, "Julia"),
+            new Student(11, "Jason")
         );
 
         response.setContentType("application/json");
