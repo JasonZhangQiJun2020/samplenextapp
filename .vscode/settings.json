@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "apps/backend/src",
+        "apps/student-service/src/main/java/com/sample"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
